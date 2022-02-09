@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -----------------------PBL group 1 project ---------------------
 Title     : HOSTEL  AND MESS SEARCH WEB APPLICATION.
 Motivation: When a student comes to a new city he is not able to locate accommodation         easily so this website can be very useful to students as well as hostel owners.
@@ -29,3 +30,7 @@ Group Members:  1.Vaibhav Kokitkar(21428)
                 6.Aishwarya Mirashi(21442)
 
 
+=======
+#PBL group 1 project for 4 th sem
+#PBL group 1 project for 4 th sem
+>>>>>>> a0c5a99652d847e2fe1cb926cb556d880b79cf6a
